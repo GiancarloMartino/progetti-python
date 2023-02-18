@@ -1,0 +1,12 @@
+robotframework
+robotframework-seleniumlibrary
+robotframework-requests
+robotframework-httplibrary
+robotframework-databaselibrary
+mysql-connector-python
+allure_behave
+pytest
+pymysql
+requests
+pandas
+numpy
